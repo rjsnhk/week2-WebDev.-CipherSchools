@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Roboto:ital,wght@1,700&display=swap');
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: lighter;
+}
+
+/* jo bhi kro font family likhne ke baad hi link kam karega */
