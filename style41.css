@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    background:rgb(170, 246, 237);
+}
+.paragraph{
+    background:#cdcdcd;
+}
+h2{
+    color: rgb(5, 207, 207);
+}
+h1{
+    color: rgb(6, 113, 113);
+}
+span{
+    background:rgb(65, 221, 213)
+}
