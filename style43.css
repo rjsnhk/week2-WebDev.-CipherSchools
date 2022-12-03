@@ -1,0 +1,29 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: rgb(61, 184, 114);
+    color: rgb(255, 255, 255);
+}
+section.my_article{
+    background-color: aqua;
+}
+header p{ /*header ke under ka p*/
+    color: brown;
+}
+li a{
+    color: blueviolet;
+}
+/* section.my_article h2{
+    color: blue;
+} */
+section.my_article>h2{  /*direct h2*/
+    color: blueviolet;
+}
+h2+p{ /* h2 ke baad wala p*/
+    color: red;
+}
+nav+p{
+    color: greenyellow;
+}
