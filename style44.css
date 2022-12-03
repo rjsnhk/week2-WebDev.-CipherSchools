@@ -1,0 +1,24 @@
+input[type='text']{
+    color: rgb(0, 23, 23);
+    background-color: #1b90cb;
+}
+input[type='password']{
+    background-color: aquamarine;
+    color: blue;
+}
+
+a[href="https://www.cipherschools.com/"]{color: #1b90cb;}  /*only whi href*/
+
+
+/* a[href *= 'google']{
+    background: #7fcff7;
+} jha jha google href me he use=*=   */
+
+/* a[href^='https']{
+    color: rgb(255, 0, 247);
+} use ^ for first word */
+
+/* a[href $='.com/' ]{
+    background: #8bcae9;
+} use $ for last on href */
+
