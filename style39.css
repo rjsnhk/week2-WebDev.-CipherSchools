@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#main{
+    background-color: antiquewhite;
+}
+.para{
+    color: blue;
+}
+p{
+    background-color: black;
+    color: aqua;
+}
