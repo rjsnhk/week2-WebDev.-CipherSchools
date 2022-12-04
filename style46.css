@@ -1,0 +1,17 @@
+/* priority== inline > id > class > element selector*/
+h1{
+    color: aqua;
+}
+.h1class{
+    color: bisque;
+}
+/* #h1id{
+    color: blue;
+} */
+
+/* class ke under domhoga to last jo hoga wahi priority*/
+.heading{
+    color: yellow;
+}
+
+h1.h1class{color: paleturquoise;}
