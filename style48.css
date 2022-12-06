@@ -1,0 +1,19 @@
+h2,img{
+    border:1px solid red;} /*width + style + color*/ 
+div{
+    border-bottom: 3px solid blue;
+    border-top: 4px dotted green;
+    border-left: 8px inset yellowgreen;
+    border-right: 3px groove black;
+}
+li{
+    border-width:2px;
+    border-style: solid; /* dotted,ridge,groove,inset,outset*/
+    border-color: aqua;
+}
+p{
+    border:6px solid pink;
+}
+span{
+    border:5px solid green;
+}
