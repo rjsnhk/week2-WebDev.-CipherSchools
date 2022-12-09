@@ -1,0 +1,22 @@
+h1{
+    border: 20px dotted pink;
+    /* padding-left:100px;
+    padding-top:43px;
+    padding-right:40px;
+    padding-bottom: 30px; */
+
+    /* padding: 40px;  for all*/
+
+    /* padding: 20px 30px; top/bottom , side */
+
+    /* padding:10px 20px 30px 40px ; t,r,b,l */
+
+    /* margin: 100px; padding jesa hi  he */
+
+    width: 400px;
+    margin:20px auto;
+    text-align: center;
+    background: blue;
+    color:white;
+
+}
