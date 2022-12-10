@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr{
+    width: 500px;
+    margin-left: 0px;
+}
+.box1{
+    box-sizing: border-box;
+    width: 500px;
+    background: rgb(180, 122, 234);
+    border: 10px solid rgb(232, 33, 232);
+    padding: 10px;
+    margin:0px 0px 20px
+}
+
+.box2{
+    box-sizing: border-box;
+    width: 500px;
+    background: rgb(180, 122, 234);
+    border: 10px solid rgb(232, 33, 232);
+    padding: 10px;}
