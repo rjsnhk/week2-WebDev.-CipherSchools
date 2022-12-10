@@ -1,0 +1,12 @@
+a{
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    background:rgb(114, 167, 241);
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+/* inlineblock ke wajah se hum inline me sab add kar sakte he*/
