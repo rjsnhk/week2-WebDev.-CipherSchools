@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1,h2{
+    border: 2px solid red;
+    /* display: inline; */
+    margin: 20px;
+    padding: 30px;
+    /*to convert block in line*/
+}  /*full width 1 1 line le rha h1,h2*/
+
+a{
+    border: 2px solid rgb(34, 12, 200);
+    margin: 20px;
+    padding: 30px;
+}  /* --->ek hi line pe 
+  --->no work of height width
+  ---> margin no top botton only left right
+  ----> padding hoga but wo top aur buttom pe overflow krega*/
