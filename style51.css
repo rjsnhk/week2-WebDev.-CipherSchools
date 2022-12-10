@@ -1,0 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.box1,div.box2{
+    border: 2px solid black;
+    padding: 10px;
+
+}
+.box1{
+    margin-bottom: 20px;
+}
+
+.box2{
+    margin-top: 50px;
+}
+
+/* bich ka space add nhi hoga jo bada margin he whi count hoga collapse hoga
+mean 50 ke under 20 rhega  */
