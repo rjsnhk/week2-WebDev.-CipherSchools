@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+    background:rgb(227, 226, 226);
+    text-align: center;
+    padding:10px 0px;
+    margin: 0px 50px 20px;
+}
+section.me,section.lily{
+    border: 2px solid black;
+    padding:10px;
+    margin: 0px 50px 20px 50px;
+}
+
+section h3{
+    text-transform: uppercase;
+}
